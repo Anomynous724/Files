@@ -13,13 +13,17 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/
 
-- 홈페이지 
+- 블로그 구현
 
 https://recoveryman.tistory.com/323?category=635733
 
 https://devinlife.com/howto%20github%20pages/github-prepare/
 
 https://soojae.tistory.com/16
+
+https://ychae-leah.tistory.com/15
+
+https://tyeolrik.github.io/jekyll/2020/07/20/Jekyll-1-Build-your-github-page.html
 
 - node.js reference
 https://nhj12311.tistory.com/290
