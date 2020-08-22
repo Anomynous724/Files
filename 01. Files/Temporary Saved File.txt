@@ -25,6 +25,8 @@ https://ychae-leah.tistory.com/15
 
 https://tyeolrik.github.io/jekyll/2020/07/20/Jekyll-1-Build-your-github-page.html
 
+https://honbabzone.com/jekyll/start-gitHubBlog/ 
+
 - node.js reference
 https://nhj12311.tistory.com/290
 
