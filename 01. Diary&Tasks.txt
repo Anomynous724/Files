@@ -30,3 +30,4 @@ files
 5. 방문자수
 6. 게시글 내용으로 검색 가능하게
 7. account photo id rename
+8. forked by 없애기 => 저장소 commit history까지 모두 복사! (참고. https://wrjeoung.tistory.com/15)
