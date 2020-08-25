@@ -1,0 +1,17 @@
+-ruby 설치
+1. https://hurderella.tistory.com/131
+2. https://honbabzone.com/jekyll/start-gitHubBlog/
+
+- jekyll install
+https://soojae.tistory.com/16
+
+- gem install(package)
+https://2ssue.github.io/blog/make_jekyll_blog/
+https://hurderella.tistory.com/131
+
+- jekyll 오류발생시
+1. https://ychae-leah.tistory.com/15
+2. terminal - cd user.github.io -> bundle install
+
+- markdown 사용법 및 예제
+https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/
