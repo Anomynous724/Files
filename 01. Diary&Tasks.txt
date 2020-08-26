@@ -9,7 +9,7 @@ cmd - npm init에서 막힘
 file rearangement (structural) √
 
 2020-08-25 작업목록
-github blog
+- github blog
 1. Post First step of github Blog  (post 2020-08-25-first-step-of-github-blog)
 3. Edit disqus margin  (edit disqus.html)
 2. Edit aboutme margin  (edit aboutme.html)
@@ -17,17 +17,22 @@ github blog
 5. Update contact  (contact.html)
 6. Fork asset images  (asset-images)
 7. Update minor _site  (_site)
+- files
 
-files
-
+2020-08-26 tasks
+- github blog
+1. Post Commit Message Guidelines  (post '2020-08-26-commit-message-guidelines')
+2. Edit contact content  (add <h3>, class to 'contact.html')
+3. Add 'Encoding.default_external = Encoding.find('utf-8')' to C:\Ruby26-x64\lib\ruby\gems\2.6.0\gems\sass-3.7.4\lib sass.rb => fix 'Error:  incompatible character encodings: CP949 and UTF-8' (Solved!)
+Error. after I edit post '2020-08-26-commit-message-guidelines' and set language EN-US....
+Reference. https://skyksit.tistory.com/entry/jekyll-Invalid-CP949-charater-%EC%97%90%EB%9F%AC-%EC%88%98%EC%A0%95%EB%B2%95
 
 
 차후 할일
-1. 여백 세밀 조절
+1. 여백 세밀 조절 (index.html)
 2. 카테고리 가로로 보이게, 사진은 제외하고 목록만 보이게
-3. contact.html paragraph 수정
-4. 게시글 구글에 노출시키기
-5. 방문자수
-6. 게시글 내용으로 검색 가능하게
-7. account photo id rename
-8. forked by 없애기 => 저장소 commit history까지 모두 복사! (참고. https://wrjeoung.tistory.com/15)
+3. 게시글 구글에 노출시키기
+4. 방문자수
+5. 게시글 내용으로 검색 가능하게
+6. account photo id rename
+7. forked by 없애기 => 저장소 commit history까지 모두 복사! (참고. https://wrjeoung.tistory.com/15)
