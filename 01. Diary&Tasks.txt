@@ -22,7 +22,7 @@ file rearangement (structural) √
 2020-08-26 tasks
 - github blog
 1. Post Commit Message Guidelines  (post '2020-08-26-commit-message-guidelines')
-2. Edit contact content  (add <h3>, class to 'contact.html')
+2. Update contact content  (add <h3>, class to 'contact.html')
 3. Add 'Encoding.default_external = Encoding.find('utf-8')' to C:\Ruby26-x64\lib\ruby\gems\2.6.0\gems\sass-3.7.4\lib sass.rb => fix 'Error:  incompatible character encodings: CP949 and UTF-8' (Solved!)
 Error. after I edit post '2020-08-26-commit-message-guidelines' and set language EN-US....
 Reference. https://skyksit.tistory.com/entry/jekyll-Invalid-CP949-charater-%EC%97%90%EB%9F%AC-%EC%88%98%EC%A0%95%EB%B2%95
