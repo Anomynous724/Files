@@ -16,13 +16,21 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 
 - 깃허브 커밋 메시지 약속
+(post complete) https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
+
 https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/
+
+https://blog.ull.im/engineering/2019/03/10/logs-on-git.html  좋은 git commit 메시지를 위한 영어 사전
+
+https://chris.beams.io/posts/git-commit/
 
 
 
 - reference website
 
 https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/
+
+
 
 - 블로그 구현
 
@@ -43,8 +51,11 @@ https://gloriajun.github.io/etc/2017/04/08/github-blog-custom.html
 
 http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
 
+
+
 - node.js reference
 https://nhj12311.tistory.com/290
+
 
 
 - web framework reference
