@@ -1,0 +1,7 @@
+Create	- files
+Edit	- style
+Initiate
+Post	- posts	
+Update	- content
+Refresh
+
