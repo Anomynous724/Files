@@ -1,15 +1,15 @@
-개발자 일기
+Dev Diary & Tasks
 
 2020-07-14
-node.js 설치 및 atom(code editor 체험)
-cmd - npm init에서 막힘
-생활코딩학습
+* node.js 설치 및 atom(code editor 체험)
+* cmd - npm init에서 막힘
+* 생활코딩학습
 
 2020-08-19
-file rearangement (structural) √
+* File rearangement (structural)
 
-2020-08-25 작업목록
-1. github blog
+2020-08-25
+1. Github blog
   * Post First step of github Blog  (post 2020-08-25-first-step-of-github-blog)
   * Edit disqus margin  (edit disqus.html)
   * Edit aboutme margin  (edit aboutme.html)
@@ -17,25 +17,39 @@ file rearangement (structural) √
   * Update contact  (contact.html)
   * Fork asset images  (asset-images)
   * Update minor _site  (_site)
-2. files
+2. Files
   * Create '01. Diary&Tasks'
 
-2020-08-26 tasks
-1. github repository
+2020-08-26
+1. Github repository
   * Forked by 없애기 => 저장소 commit history까지 모두 복사! (참고. https://zeddios.tistory.com/5, https://wrjeoung.tistory.com/15) (Solved!)
-2. github blog
+2. Github blog
   * Post Commit Message Guidelines  (post '2020-08-26-commit-message-guidelines')
   * Update contact content  (add <h3>, class to 'contact.html')
+3. Ruby
   * Add 'Encoding.default_external = Encoding.find('utf-8')' to C:\Ruby26-x64\lib\ruby\gems\2.6.0\gems\sass-3.7.4\lib sass.rb => fix 'Error:  incompatible character encodings: CP949 and UTF-8' (Solved!)
-	Error. after I edit post '2020-08-26-commit-message-guidelines' and set language EN-US....
-	Reference. https://skyksit.tistory.com/entry/jekyll-Invalid-CP949-charater-%EC%97%90%EB%9F%AC-%EC%88%98%EC%A0%95%EB%B2%95
+    - Error. after I edit post '2020-08-26-commit-message-guidelines' and set language EN-US....
+    - Reference. https://skyksit.tistory.com/entry/jekyll-Invalid-CP949-charater-%EC%97%90%EB%9F%AC-%EC%88%98%EC%A0%95%EB%B2%95
+
+
+2020-08-27
+1. Github blog
+  * Post How to move a full Git repository with Commit history (post 2020-08-27-how-to-move-a-full-git-repository-with-commit-history)
+  * Edit Commit Message Guidelines (Edit 2020-08-26-commit-message-guidelines)
+  * Edit First Step of Github Blog (Edit File route in 2020-08-23-pros-and-cons-using-github-blog)
+  * Edit Pros & Cons of using Github Blog (Edit 2020-08-23-pros-and-cons-using-github-blog)
+  * 게시글 구글에 노출시키기
+
+  * 게시글 사진 찾아봐서 붙여넣기
+
+===============================================================
 
 차후 할일
-  * 게시글 구글에 노출시키기
   * 방문자수
   * 여백 세밀 조절 (index.html)
   * 카테고리 가로로 보이게, 사진은 제외하고 목록만 보이게
   * 게시글 내용으로 검색 가능하게
-  * account photo id rename
-  * 프로그래밍 text-area 글씨크기 줄이고 관련 문법 공부하기
+  * account photo id rename		(id candidates : call me J, you can call me J, mighty mice, flying cat, enlightment, insight,  vmos, do something, )
+  * 프로그래밍 text-area 글씨크기 줄이고 관련 markdown 문법 공부하기
   * 반응형 웹사이트 공부 및 구축해보기
+  * Github Logo Download
