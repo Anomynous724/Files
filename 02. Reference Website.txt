@@ -17,9 +17,11 @@ https://git-scm.com/book/ko/v2/GitHub-GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B
 
 - github repository move/clone with history
 
-(post 예정) https://zeddios.tistory.com/5
+(post 완료) https://zeddios.tistory.com/5
 
 https://www.atlassian.com/git/tutorials/git-move-repository
+
+https://itnext.io/git-repository-transfer-keeping-all-history-670fe04cd5e4
 
 
 - 깃허브 커밋 메시지 약속
@@ -58,6 +60,8 @@ https://gloriajun.github.io/etc/2017/04/08/github-blog-custom.html
 
 http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
 
+https://wormwlrm.github.io/2018/07/13/How-to-set-Github-and-Jekyll-environment-on-Windows.html
+
 
 
 - node.js reference
@@ -70,3 +74,13 @@ https://nhj12311.tistory.com/290
 https://moolgogiheart.tistory.com/87
 
 https://velog.io/@ansrjsdn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%94%EC%B2%9C-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C
+
+
+
+- id 정하기
+
+https://steemit.com/kr-writing/@feeltong/6ixaxs-feel
+
+- 변수명 정하기
+
+https://www.curioustore.com/#!/util/naming
