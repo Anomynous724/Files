@@ -51,11 +51,18 @@ Dev Diary & Tasks
 1. Github blog
   * Update config.yml  (_config.yml add highlighter: rouge)
   * 게시글 사진 찾아봐서 붙여넣기
-  * change syntax highlighter 
+  * change syntax highlighter (failed)
     - Reference
       https://moon9342.github.io/jekyll-rouge
       http://anotherpeak.org/blog/tech/2016/09/22/syntax_highlighter_jekyll_rouge.html
       https://seulcode.tistory.com/211
+
+2020-09-01
+1. Github blog
+  * Post Pros & Cons of each Blog platforms (post 2020-09-01-pros-and-cons-of-each-blog-platforms)
+  * Update post tag (add scrap)
+  * Update config.yml (Add google analytics tracking id)
+
 ===============================================================
 
 차후 할일
@@ -66,3 +73,5 @@ Dev Diary & Tasks
   * account photo id rename		(id candidates : call me J, you can call me J, mighty mice, flying cat, enlightment, insight,  vmos, do something, vector)
   * 프로그래밍 text-area 글씨크기 줄이고 관련 markdown 문법 공부하기
   * 반응형 웹사이트 공부 및 구축해보기
+  * 내용 많으면 줄 흐트러지는것 고치기
+  * syntax highlighter css 고치기
