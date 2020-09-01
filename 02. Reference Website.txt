@@ -1,5 +1,9 @@
 2020-07-07 보던거
 
+- jekyll 원리
+
+https://nashory.github.io/routine/programming/2017/06/16/1_starting_blog_with_github.html
+
 - git
 
 git bash 명령어
@@ -84,6 +88,10 @@ https://steemit.com/kr-writing/@feeltong/6ixaxs-feel
 - 변수명 정하기
 
 https://www.curioustore.com/#!/util/naming
+
+- syntax highlight
+
+https://spsarolkar.github.io/rouge-theme-preview/
 
 - 반응형 웹사이트 구축
 
