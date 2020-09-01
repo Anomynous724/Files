@@ -84,3 +84,13 @@ https://steemit.com/kr-writing/@feeltong/6ixaxs-feel
 - 변수명 정하기
 
 https://www.curioustore.com/#!/util/naming
+
+- 반응형 웹사이트 구축
+
+https://wtss.tistory.com/206?category=863926
+
+https://github.com/webstoryboy
+
+https://iropke.com/archive/responsive-web-design-bookmarks.html
+
+https://freemoa-blog.com/697
