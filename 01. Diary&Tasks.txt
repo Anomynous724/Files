@@ -56,6 +56,11 @@ Dev Diary & Tasks
       https://moon9342.github.io/jekyll-rouge
       http://anotherpeak.org/blog/tech/2016/09/22/syntax_highlighter_jekyll_rouge.html
       https://seulcode.tistory.com/211
+      https://stackoverrun.com/ko/q/9783641
+
+2020-08-30
+1. Github blog
+  * Update config.yml  (_config.yml add  kramdown:  input: GFM  syntax_highlighter_opts:    default_lang: html    css_class   : 'syntax')
 
 2020-09-01
 1. Github blog
