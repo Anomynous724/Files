@@ -68,15 +68,21 @@ Dev Diary & Tasks
   * Update post tag (add scrap)
   * Update config.yml (Add google analytics tracking id)
 
+2020-09-02
+0. Github
+  * Github Username Rename (Anomynous724 -> YouCanCallMeJ (id candidates : call me J, you can call me J, mighty mice, flying cat, enlightment, insight,  vmos, do something, vector))
+1. Github blog
+  * Update _config.yml
+
 ===============================================================
 
 차후 할일
-  * 방문자수
   * 여백 세밀 조절 (index.html)
   * 카테고리 가로로 보이게, 사진은 제외하고 목록만 보이게
+  * 이동하는 목차 만들기
   * 게시글 내용으로 검색 가능하게
-  * account photo id rename		(id candidates : call me J, you can call me J, mighty mice, flying cat, enlightment, insight,  vmos, do something, vector)
-  * 프로그래밍 text-area 글씨크기 줄이고 관련 markdown 문법 공부하기
+  * Github account photo Update
+  * syntax highlighter css 고치기(프로그래밍 text-area 글씨 크기 줄이기)
   * 반응형 웹사이트 공부 및 구축해보기
-  * 내용 많으면 줄 흐트러지는것 고치기
-  * syntax highlighter css 고치기
+  * 내용 많으면 Post 줄 흐트러지는것 고치기
+  * 포트폴리오 반응형 웹사이트로 구축
